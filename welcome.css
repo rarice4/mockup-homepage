@@ -301,3 +301,104 @@ input, textarea, select {
   height: 100%;
   border: 3px solid white
 }
+
+.lance-overlay{
+  z-index: 10;
+  margin-bottom: -23%;
+  height: 38%;
+  left: 3%;
+  bottom: 70%;
+}
+
+.rod-overlay{
+  z-index: 10;
+  margin-bottom: -23%;
+  height: 38%;
+  left: 14%;
+  bottom: 70%;
+}
+
+.steve-overlay{
+  z-index: 10;
+  margin-bottom: -37%;
+  height: 38%;
+  left: 16%;
+  bottom: 70%;
+}
+
+.tom-overlay{
+  z-index: 10;
+  margin-bottom: -44%;
+  height: 17%;
+  left: 8%;
+  bottom: 68%;
+}
+
+.lance-background {
+  background: url(/assets/images/lance.png) 0 0 no-repeat;
+    background-size: cover;
+    -webkit-background-origin: border;
+    width: 100%;
+    /* height: 100%; */
+    display: block;
+}
+
+.rod-background {
+  background: url(/assets/images/rod.png) 0 0 no-repeat;
+    background-size: cover;
+    -webkit-background-origin: border;
+    width: 100%;
+    /* height: 100%; */
+    display: block;
+}
+
+.steve-background {
+  background: url(/assets/images/steve.png) 0 0 no-repeat;
+    background-size: cover;
+    -webkit-background-origin: border;
+    width: 100%;
+    /* height: 100%; */
+    display: block;
+}
+
+.tom-background {
+  background: url(/assets/images/tom.png) 0 0 no-repeat;
+    background-size: cover;
+    -webkit-background-origin: border;
+    width: 100%;
+    /* height: 100%; */
+    display: block;
+}
+
+.vmiddle-lance {
+  width: 100%;
+  /* margin-bottom: 37%; */
+  padding: 27%;
+}
+
+.vmiddle-rod {
+  width: 100%;
+  /* margin-bottom: 37%; */
+  padding: 23.5%;
+}
+
+.vmiddle-steve {
+  width: 100%;
+  /* margin-bottom: 37%; */
+  padding: 10.5%;
+}
+
+.vmiddle-tom {
+  width: 100%;
+  /* margin-bottom: 37%; */
+  padding: 13.5%;
+  margin-top: 47%;
+}
+
+@media all and (max-width: 767px) {
+  .vmiddle-tom {
+    width: 100%;
+    padding: 19.5%;
+    margin-bottom: 37%;
+  }
+} 
