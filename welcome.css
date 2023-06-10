@@ -147,7 +147,9 @@ position: relative;
 margin-top: 12px;
 margin-left: 12px;
 width: 40%;
+padding-bottom: 8%;
 }
+
 .cardim {height: 229px;}
 
 .articlestyle {
@@ -176,10 +178,8 @@ color: darkgray;
   width: 33%;
 }
 
-.dispinl2 {display: inline-block;
-width: 47.4%;
+.dispinl2 {
 border: 3px solid white;
-
 }
 .reducestv {width: 98.3%;
 border: 3px solid white;
@@ -282,4 +282,16 @@ input, textarea, select {
 .borderbox {
   border: 2px solid white;
   /* background-color: red; */
+}
+
+.profilestyle{
+  width: 100%;
+  border: 3px solid white
+}
+
+.profilestylesteve{
+  height: 100%;
+  border: 3px solid white;
+  width: 100%;
+  margin-top: 1px;
 }
