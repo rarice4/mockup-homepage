@@ -137,26 +137,26 @@ font-size: 12px;
 /* height: 227px; */
 position: absolute;
 }
-.outerc {width: 94.3%;
-margin-left: 10px;
-border: 7px solid white}
+.outerc {
+border: 7px solid white
+}
 .colspacing {margin-top: 12px;}
 
 .overlayz {z-index: 10;
 position: relative;
-margin-top: 34px;
+margin-top: 12px;
 margin-left: 12px;
 width: 40%;
 }
-.cardim {height: 227px;}
+.cardim {height: 229px;}
 
-.dispinl {display: inline-block;
-width: 23.9%;
-margin-left: 10px;
+.articlestyle {
 background-color: white;
-border-bottom: 3px solid gray;
+border-bottom: 4px solid gray;
 vertical-align: top;
-font-size: 12px
+font-size: 12px;
+padding-top: 12px;
+height:100%;
 }
 
 .colspacing2 {margin-top: 45px;}
@@ -266,7 +266,7 @@ input, textarea, select {
 
 
 
-@media screen and (max-width: 1199px) {
+/* @media screen and (max-width: 1199px) {
   .outerc {
     width: 90.4%;
   }
@@ -276,7 +276,7 @@ input, textarea, select {
   .minbot {
     width: 39.9%;
 }
-}
+} */
 
 
 .borderbox {
