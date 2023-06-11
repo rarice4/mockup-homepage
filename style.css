@@ -16,7 +16,7 @@
  *= require_tree .
  *= require_self
  */
- body {background-image: url(/assets/images/background.png);
+ body {background-image: url(assets/images/background.png);
   font-family: gibson-regular;
 
 }
@@ -52,7 +52,7 @@ font-family: -webkit-pictograph
 height: 30px;
 font-size: 14px;
 color: white;
-background-image: url(/assets/images/redbar.png);
+background-image: url(assets/images/redbar.png);
 border-bottom: 3px solid rgb(192, 0, 0);
 border-bottom: 3px solid rgba(192, 192, 192, .2);
 -webkit-background-clip: padding-box; /* for Safari */
@@ -272,7 +272,7 @@ input, textarea, select {
 }
 
 .lance-background {
-  background: url(/assets/images/lance.png) 0 0 no-repeat;
+  background: url(assets/images/lance.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
@@ -281,7 +281,7 @@ input, textarea, select {
 }
 
 .rod-background {
-  background: url(/assets/images/rod.png) 0 0 no-repeat;
+  background: url(assets/images/rod.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
@@ -290,7 +290,7 @@ input, textarea, select {
 }
 
 .steve-background {
-  background: url(/assets/images/steve.png) 0 0 no-repeat;
+  background: url(assets/images/steve.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
@@ -299,7 +299,7 @@ input, textarea, select {
 }
 
 .tom-background {
-  background: url(/assets/images/tom.png) 0 0 no-repeat;
+  background: url(assets/images/tom.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
