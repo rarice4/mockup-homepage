@@ -23,12 +23,7 @@
 .marginz {display: inline-block;
 margin-left: 1%;
 }
-.rowz {
-  margin-left: 400px;
-font-size: 0;
-padding-top: 10px;
-display: block;
-}
+
 .raisez{display: inline-block;
 color: white;
 font-size: 20px;
@@ -51,12 +46,6 @@ font-family: -webkit-pictograph
 .marg {margin: 3px;
 }
 
-.navrow {
-font-size: 0;
-margin-top: 10px;
-display: block;
-margin-left: 1px
-}
 
 .bardim {display: inline-block;
   width: 100%;
@@ -81,31 +70,6 @@ font-size: 12px;
 }
 .dim {height: 70px;}
 
-/* @media all and (max-width: 723px) {
-  .rowz {
-    margin-left: 57%;
-  }
-}
-@media all and (max-width: 717px) {
-  .rowz {
-    margin-left: 228px;
-  }
-}
-
-@media all and (max-width: 551px) {
-  .rowz {
-    margin-left: 54px;
-  }
-} */
-
-
-
-/*@media all and (max-width: 535px) {
-  .rowz {
-    margin-left: 25%;
-  }
-}*/
-
 
 
 .board-margin {
@@ -119,17 +83,6 @@ font-size: 12px;
 .board-col-marg {
   margin-left: 18%;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .sizingc {
@@ -261,24 +214,6 @@ input, textarea, select {
 
 .margintp {margin-top: 7%;}
 .sizelast {height: 215px;}
-
-.skatereduce{
-  height: 224px;
-}
-
-
-
-/* @media screen and (max-width: 1199px) {
-  .outerc {
-    width: 90.4%;
-  }
-  .colspacing {
-    width: 80%;
-  }
-  .minbot {
-    width: 39.9%;
-}
-} */
 
 
 .borderbox {
