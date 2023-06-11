@@ -241,8 +241,10 @@ margin-top: 2%;
 margin-left: 19.2%;
 margin-right: 24%}
 
-.contactm {margin-left: 3%;
-
+.contactm {
+  margin-left: 3%;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .sizingcon {height: 235px;}
 
@@ -394,6 +396,11 @@ input, textarea, select {
   padding: 13.5%;
   margin-top: 47%;
 }
+
+.contact-shading{
+  border-bottom: 4px solid gray;
+}
+
 
 @media all and (max-width: 767px) {
   .vmiddle-tom {
