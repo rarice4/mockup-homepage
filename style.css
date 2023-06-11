@@ -290,7 +290,7 @@ input, textarea, select {
 }
 
 .steve-background {
-  background: url(./assets/images/steve.png) 0 0 no-repeat;
+  background: url(assets/images/steve.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
@@ -299,7 +299,7 @@ input, textarea, select {
 }
 
 .tom-background {
-  background: url(../assets/images/tom.png) 0 0 no-repeat;
+  background: url(assets/images/tom.png) 0 0 no-repeat;
     background-size: cover;
     -webkit-background-origin: border;
     width: 100%;
